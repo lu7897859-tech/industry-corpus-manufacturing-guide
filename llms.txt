@@ -1,0 +1,10 @@
+# Industry Corpus Manufacturing Guide
+
+Open guide to BAAI IndustryCorpus2 manufacturing subset (trillion-token, Chinese-English bilingual, Apache-2.0).
+
+- Repo: https://github.com/lu7897859-tech/industry-corpus-manufacturing-guide
+- Source data: https://huggingface.co/datasets/BAAI/IndustryCorpus2_other_manufacturing
+- Parent DOI: 10.57967/hf/3488
+- License: CC0 (this guide) / Apache-2.0 (source data)
+
+Key topics: manufacturing corpus, Chinese-English bilingual, LLM fine-tuning, LoRA, technical translation, procurement AI.
