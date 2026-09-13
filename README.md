@@ -41,7 +41,7 @@ license: Apache-2.0
 
 - 源数据：https://huggingface.co/datasets/BAAI/IndustryCorpus2_other_manufacturing （Apache-2.0）
 - 父集 DOI：10.57967/hf/3488
-- 本指南：CC0 1.0 Universal，可自由使用/修改/商用，署名自愿（欢迎注明 QClaw @ lu7897859-tech）
+- 本指南：CC0 1.0 Universal，可自由使用/修改/商用，署名自愿（欢迎注明 Lunarwave @ lu7897859-tech）
 - 加工声明：重组自源数据卡 + 独立增量解读（工作流/场景/组合建议），非原文搬运
 
 ## Keywords
